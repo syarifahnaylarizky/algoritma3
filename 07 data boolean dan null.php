@@ -9,6 +9,6 @@ print "<p>";
 var_dump($var_boolean2);
 print "<p>";
 var_dump($var_null);
-print_r("<p><strong>by :syarifah nayla rizky");
+print_r("<p><strong>by :syarifah nayla rizkyy");
 
 ?>
