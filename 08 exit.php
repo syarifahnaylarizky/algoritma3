@@ -1,5 +1,5 @@
 <?php
-echo 'tunggu beberapa menit.';
+echo 'tunggu beberapa menitt.';
 exit( 'proses telah selesai.');;
 echo 'ini tidak akan tampil di browser.';
 
