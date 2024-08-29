@@ -15,4 +15,4 @@ print_r($bakso);
 print"<p>";
 print_r ($bakso);
 
-print_r("<p><strong>by: syarifah nayla rizky");
+print_r("<p><strong>by: syarifah nayla rizky")
