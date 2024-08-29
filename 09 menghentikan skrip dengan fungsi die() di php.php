@@ -3,7 +3,7 @@
 if (file_exists('file_important.txt')) {
     echo "File ditemukan.";
 } else {
-    die("Error: File tidak ditemukan.");
+    die("Error: File tidak ditemukan.menunggu beberapa saat");
 }
 // menambahkan status HIP
 if (user_is_logged_in()) {
